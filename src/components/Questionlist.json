@@ -1,0 +1,27 @@
+
+[
+    {
+        "title":"q1",
+        "image":"https://itcanwaitsimulator.org/wp-content/uploads/2021/02/40B1F185-780F-443A-A1071B2722C976B1_source.jpg",
+        "options":["11","22","33","44"],
+        "correctOptionIndex":"2"
+    },
+    {
+        "title":"q2",
+        "image":"https://itcanwaitsimulator.org/wp-content/uploads/2021/02/40B1F185-780F-443A-A1071B2722C976B1_source.jpg",
+        "options":["11","22","33","44"],
+        "correctOptionIndex":"1"
+    },
+    {
+        "title":"q3",
+        "image":"https://itcanwaitsimulator.org/wp-content/uploads/2021/02/40B1F185-780F-443A-A1071B2722C976B1_source.jpg",
+        "options":["11","22","33","44"],
+        "correctOptionIndex":"2"
+    },
+    {
+        "title":"q4",
+        "image":"https://itcanwaitsimulator.org/wp-content/uploads/2021/02/40B1F185-780F-443A-A1071B2722C976B1_source.jpg",
+        "options":["11","22","33","44"],
+        "correctOptionIndex":"2"
+    }
+]
